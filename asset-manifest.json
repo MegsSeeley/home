@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/megs-site/static/css/main.c019a26a.chunk.css",
+    "main.js": "/megs-site/static/js/main.5842e755.chunk.js",
+    "main.js.map": "/megs-site/static/js/main.5842e755.chunk.js.map",
+    "runtime~main.js": "/megs-site/static/js/runtime~main.4b0b31ac.js",
+    "runtime~main.js.map": "/megs-site/static/js/runtime~main.4b0b31ac.js.map",
+    "static/js/2.2123cd8b.chunk.js": "/megs-site/static/js/2.2123cd8b.chunk.js",
+    "static/js/2.2123cd8b.chunk.js.map": "/megs-site/static/js/2.2123cd8b.chunk.js.map",
+    "index.html": "/megs-site/index.html",
+    "precache-manifest.7870ddde213e873d9b1bb0849cb21b05.js": "/megs-site/precache-manifest.7870ddde213e873d9b1bb0849cb21b05.js",
+    "service-worker.js": "/megs-site/service-worker.js",
+    "static/css/main.c019a26a.chunk.css.map": "/megs-site/static/css/main.c019a26a.chunk.css.map",
+    "static/media/haq2.jpg": "/megs-site/static/media/haq2.bdaec308.jpg",
+    "static/media/lOntario2.jpg": "/megs-site/static/media/lOntario2.3e1148a9.jpg",
+    "static/media/megs-cartoon.jpg": "/megs-site/static/media/megs-cartoon.ea32a194.jpg",
+    "static/media/ohio2.jpg": "/megs-site/static/media/ohio2.63fcdbea.jpg",
+    "static/media/tempe2.jpg": "/megs-site/static/media/tempe2.1a057c5f.jpg",
+    "static/media/index.css": "/megs-site/static/media/tempe2.8a4da797.png",
+    "static/media/usvi3.jpg": "/megs-site/static/media/usvi3.f6d836fa.jpg"
+  }
+}
